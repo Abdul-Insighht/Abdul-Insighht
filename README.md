@@ -1,15 +1,17 @@
 # Hi there! 👋 I'm Hafiz Abdul Rehman
 
 <div align="center">
-  <img width="100%" src="https://abdul-rehman-portfolio-iota.vercel.app/?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hafiz%20Abdul%20Rehman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Specialist%20%7C%20AI%20Agent%20%26%20Agentic%20AI%20Developer&descSize=18&descAlignY=51"/>
+  
+  ## 🚀 Data Science Specialist | 🤖 AI Agent & Agentic AI Developer
+  
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Data+Science+Specialist+%26+AI+Engineer;🤖+AI+Agent+%26+Agentic+AI+Developer;📊+Machine+Learning+%26+Deep+Learning+Expert;🧠+Computer+Vision+%26+Medical+AI+Researcher;🔧+RAG+Systems+%26+Generative+AI+Architect;💡+Building+AI-Powered+Solutions+at+Scale&font=Dancing%20Script&center=true&width=900&height=80&duration=3000&pause=1000&size=26&color=58a6ff" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Data+Science+Specialist+%26+AI+Engineer;🤖+AI+Agent+%26+Agentic+AI+Developer;📊+Machine+Learning+%26+Deep+Learning+Expert;🧠+Computer+Vision+%26+Generative+AI&color=00F7FE&vCenter=true&size=20" />
 </div>
 
 <div align="center">
-  <a href="https://abdul-rehman-portfolio-iota.vercel.app//" target="_blank">
+  <a href="https://abdul-rehman-portfolio-iota.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=08F7FE" />
   </a>
   <a href="./Hafiz_Abdul_Rehman_CV.pdf" target="_blank">
@@ -31,7 +33,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding Animation" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1naDU5bW5ndWRjZ2NpMmk5MGFrMHpob2wyMTN4aWFjYXF0aW9pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif" />
+<img align="right" alt="Coding Animation" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1naDU5bW5ndWRjZ2NpMmk5MGFrMHpob2wyMTN4aWFjYXF0aW9pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFRz1DAVr2"/>
 
 - 🎓 **BS in Data Science** at Gift University, Gujranwala (CGPA: 3.6/4.0)
 - 💼 **Senior Data Scientist & ML Engineer** — building end-to-end ML pipelines
@@ -207,15 +209,15 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Insighht&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=F85D7F&currStreakNum=F85D7F&sideNums=F8D866&currStreakLabel=F85D7F&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Insighht&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=F85D7F&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=667eea&sideLabels=667eea&dates=667eea" alt="GitHub Streak"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Insighht&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0D1117&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Insighht&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Insighht&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0D1117&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Insighht&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&hide_border=true" height="165" alt="GitHub Stats"/>
 </div>
 
 <br>
