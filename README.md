@@ -33,7 +33,7 @@
 
 <img align="right" alt="Coding Animation" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1naDU5bW5ndWRjZ2NpMmk5MGFrMHpob2wyMTN4aWFjYXF0aW9pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFRDxVioMwavePC/giphy.gif" />
 
-- 🎓 **BS in Data Science** at Gift University, Gujranwala (CGPA: 3.6/4.0)
+- 🎓 **BS in Data Science** at Gift University, Gujranwala (CGPA: 3.65/4.0)
 - 💼 **Senior Data Scientist & ML Engineer** — building end-to-end ML pipelines
 - 🤖 **Agentic AI & ML Engineer (Intern)** at Nexl Tech
 - 🔬 Research: **Foundation Models, Knowledge Distillation, Multi-Modal Learning, Medical Imaging**
