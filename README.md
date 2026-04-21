@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Hafiz Abdul Rehman
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hafiz%20Abdul%20Rehman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Specialist%20%7C%20AI%20Agent%20%26%20Agentic%20AI%20Developer&descSize=18&descAlignY=51"/>
+  <img width="100%" src="https://abdul-rehman-portfolio-iota.vercel.app/?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hafiz%20Abdul%20Rehman&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Specialist%20%7C%20AI%20Agent%20%26%20Agentic%20AI%20Developer&descSize=18&descAlignY=51"/>
 </div>
 
 <div align="center">
